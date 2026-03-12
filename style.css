@@ -26,6 +26,7 @@
     color: hsl(150, 100%, 66%);
     font-size: 12px;
     letter-spacing: 4px;
+    margin-bottom: 20px;
 }
 #advice-text{
     color: hsl(193, 38%, 86%);
